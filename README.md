@@ -2,6 +2,8 @@
 
 A Flask API for attributing content as human-written or AI-generated, with transparent labeling and a creator appeals workflow.
 
+📹 **[Demo Video](https://www.youtube.com/watch?v=cFogACuIluo)**
+
 ---
 
 ## 1. Project Overview
